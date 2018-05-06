@@ -4,5 +4,6 @@
 + Express
 + Webpack
 + Flow
++ Jest
 
   This just my remote backup 
