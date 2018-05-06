@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1523718808462" clover="3.2.0">
+  <project timestamp="1523718808462" name="All files">
+    <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="5" elements="18" coveredelements="16" complexity="0" loc="12" ncloc="12" packages="1" files="2" classes="2">
+      <file name="Search.jsx" path="/run/media/natasha/Emerald/PROGRAMMING/Exercise Files/Javascript/ReactJS/FEM-Complete-Intro-to-React/practice/js/Search.jsx">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="5"/>
+        <line num="8" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="4" type="stmt"/>
+        <line num="34" count="60" type="stmt"/>
+        <line num="38" count="47" type="stmt"/>
+      </file>
+      <file name="ShowCard.jsx" path="/run/media/natasha/Emerald/PROGRAMMING/Exercise Files/Javascript/ReactJS/FEM-Complete-Intro-to-React/practice/js/ShowCard.jsx">
+        <metrics statements="5" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>
